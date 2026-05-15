@@ -1,2 +1,0 @@
-# schema-xyz
-schema-xyz
